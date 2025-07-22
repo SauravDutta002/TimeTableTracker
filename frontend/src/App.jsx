@@ -17,7 +17,7 @@ const App = () => {
 
   const timetable601 = {
     Mon: [1, 2, 3, 5],
-    Tue: [1, 2, 3],
+    Tue: [2,3,5,6,7,8],
     Wed: [1, 2, 3, 4],
     Thu: [1, 2, 3, 4],
     Fri: [2, 3],
